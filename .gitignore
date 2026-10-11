@@ -1,11 +1,11 @@
 .venv/
+venv/
 __pycache__/
 *.py[cod]
+.pytest_cache/
+.ruff_cache/
 .env
-data/*
-!data/.gitkeep
 .idea/
 .vscode/
 .DS_Store
 Thumbs.db
-espi-event-lab_HANDBOOK.md
